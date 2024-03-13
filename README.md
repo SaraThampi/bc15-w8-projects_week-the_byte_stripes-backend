@@ -2,12 +2,18 @@
 
 ![image](https://github.com/SaraThampi/SaraThampi/assets/128574441/d6ff7e4e-6892-4b3a-abdb-27c181322a9b)
 
-Frontend repo:
+\
+Frontend repo: 
 https://github.com/SaraThampi/bc15-w8-projects_week-the_byte_stripes-frontend \
-This app was designed and coded by Tom Platt, Melissa Thornley, Marco Ronchi, Jack Yelland, Sara Thampi and Charlotte Rogers.
+This app was designed and coded by Tom Platt, Melissa Thornley, Marco Ronchi, Jack Yelland, Sara Thampi and Charlotte Rogers.\
+\
+The images are our wireframe designs. \
+If you would like to try our app please visit the deployed site : https://bc15-w8-projects-week-the-byte-stripes-backend.vercel.app/ \
+It may take a couple of minutes for the data to load if the website has not been visited recently. In this case just refresh the page!
 
 ## Inspiration
-We noticed our fellow bootcampers were having networking problems: events had to be posted several times on our slack channel, and still not everyone was informed. Event organisers had to make multiple regular posts. We wanted to do something to help.\
+We noticed our fellow bootcampers were having networking problems: events had to be posted several times on our slack channel, and still not everyone was informed. Event organisers had to make multiple regular 
+posts. We wanted to do something to help.\
 From our user research we discovered that bootcampers are often nervous of attending tech events if they don't know anyone else who is going. We decided we were also going to tackle this problem.
 
 ## Solution
