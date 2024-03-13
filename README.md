@@ -8,7 +8,7 @@ https://github.com/SaraThampi/bc15-w8-projects_week-the_byte_stripes-frontend \
 This app was designed and coded by Tom Platt, Melissa Thornley, Marco Ronchi, Jack Yelland, Sara Thampi and Charlotte Rogers.\
 \
 The images are our wireframe designs. \
-If you would like to try our app please visit the deployed site : https://bc15-w8-projects-week-the-byte-stripes-backend.vercel.app/ \
+If you would like to try our app please visit the deployed site : https://bc15-w8-projects-week-the-byte-stripes-frontend.vercel.app/ \
 It may take a couple of minutes for the data to load if the website has not been visited recently. In this case just refresh the page!
 
 ## Inspiration
